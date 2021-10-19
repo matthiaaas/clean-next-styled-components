@@ -6,7 +6,7 @@
 yarn
 ```
 
-**Note:** If you prefer `npm` instead of `yarn`, just use `npm run dev`.
+**Note:** If you prefer `npm` instead of `yarn`, just use `npm install`.
 
 ## Development
 
