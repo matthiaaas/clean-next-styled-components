@@ -16,7 +16,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "paths": {
-      "@/*": [
+      "~/*": [
         "*"
       ]
     },
